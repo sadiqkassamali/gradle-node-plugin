@@ -1,7 +1,7 @@
 {
   "name": "example",
   "devDependencies": {
-    "bun": "1.0.0"
+    "bun": "1.1.30"
   },
   "scripts": {
     "bunVersion": "echo Version && bun --version"
